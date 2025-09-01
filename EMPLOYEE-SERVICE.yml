@@ -6,7 +6,7 @@ spring:
     name: EMPLOYEE-SERVICE
 
   employee:
-    default-name: EMPLOYEE-SERVICE
+    default-name: Default name is EMPLOYEE-SERVICE
 
   datasource:
     url: jdbc:h2:mem:employeedb
