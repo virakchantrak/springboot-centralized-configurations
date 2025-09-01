@@ -6,7 +6,7 @@ spring:
     name: DEPARTMENT-SERVICE
 
   department:
-    default-name: DEPARTMENT-SERVICE
+    default-name: Default name is DEPARTMENT-SERVICE
 
   datasource:
     url: jdbc:h2:mem:departmentdb
