@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: API-GATEWAY
+    name: Default name is API-GATEWAY
 
   api-gateway:
     default-name: API-GATEWAY
