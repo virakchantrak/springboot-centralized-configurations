@@ -5,6 +5,9 @@ spring:
   application:
     name: API-GATEWAY
 
+  api-gateway:
+    default-name: API-GATEWAY
+
 ## Manually configure routes
 #  cloud:
 #    gateway:
