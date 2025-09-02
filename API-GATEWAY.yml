@@ -3,10 +3,10 @@ server:
 
 spring:
   application:
-    name: Default name is API-GATEWAY
+    name: API-GATEWAY
 
   api-gateway:
-    default-name: API-GATEWAY
+    default-name: Default name is API-GATEWAY
 
 ## Manually configure routes
 #  cloud:
